@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.c6bdd224.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.a252e23e.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.a252e23e.chunk.js.map",
+    "runtime-main.js": "/my-portfolio/static/js/runtime-main.8aa59639.js",
+    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.8aa59639.js.map",
+    "static/js/2.dd4e8390.chunk.js": "/my-portfolio/static/js/2.dd4e8390.chunk.js",
+    "static/js/2.dd4e8390.chunk.js.map": "/my-portfolio/static/js/2.dd4e8390.chunk.js.map",
+    "index.html": "/my-portfolio/index.html",
+    "static/css/main.c6bdd224.chunk.css.map": "/my-portfolio/static/css/main.c6bdd224.chunk.css.map",
+    "static/js/2.dd4e8390.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.dd4e8390.chunk.js.LICENSE.txt",
+    "static/media/about_anime.986764c2.gif": "/my-portfolio/static/media/about_anime.986764c2.gif",
+    "static/media/about_vector.c42fe3db.png": "/my-portfolio/static/media/about_vector.c42fe3db.png",
+    "static/media/contact_anime.1f3936c4.png": "/my-portfolio/static/media/contact_anime.1f3936c4.png",
+    "static/media/home_anime.f372ef86.gif": "/my-portfolio/static/media/home_anime.f372ef86.gif",
+    "static/media/skills_vector.1fb5f4a4.png": "/my-portfolio/static/media/skills_vector.1fb5f4a4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8aa59639.js",
+    "static/js/2.dd4e8390.chunk.js",
+    "static/css/main.c6bdd224.chunk.css",
+    "static/js/main.a252e23e.chunk.js"
+  ]
+}
