@@ -13,6 +13,8 @@ export const projectsData = [
     projectDescription:
       "As a developer/designer, One should definitely have their own portfolio website. There are endless benefits.",
     imageUrl: "https://user-images.githubusercontent.com/76400739/132391507-a20a0b77-66e7-49ac-bbeb-dd032274e4ee.png",
+    
+    projectUrl: "https://rahulamity.github.io/my-portfolio/",
   },
 
 
