@@ -35,6 +35,6 @@ export const projectsData = [
       "This is a Redux based shopping cart project" ,
     imageUrl: "https://user-images.githubusercontent.com/76400739/132390444-a4d7042a-124c-49e4-97d5-ab0e4faab381.PNG",
 
-    projectUrl: "https://github.com/Rahulamity/shoppingcart",
+    projectUrl: "https://rahulshopping.herokuapp.com/",
   },
 ];
